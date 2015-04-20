@@ -1,0 +1,2 @@
+# hieradata
+For testing hiera
